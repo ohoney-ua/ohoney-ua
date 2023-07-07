@@ -49,6 +49,10 @@ list_title: Публікації
 
 📮 Відправляємо мед Новою Поштою, після повної сплати.
 
+Орієнтовна вартість доставки:
+
+- 1 л - 70 грн
+
 <div style="overflow: hidden; display: flex; justify-content:space-around;">
 <div style="max-width: 30%; display: inline-block;">
     <a href="/images/med-dostavka-1.jpg">
