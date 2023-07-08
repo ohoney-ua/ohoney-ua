@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Огляд пасіки 1
+title: Огляд моєї пасіки 1
 permalink: /ohliad-pasiky-1/
 ---
 
